@@ -33,6 +33,7 @@ A curated list of awesome Minecraft related libraries for bukkit developer needs
 ### Runtime
 - [Libby](https://github.com/Byteflux/libby) - Runtime dependency management library for plugins running in Java-based Minecraft server platforms.
 - [Orion](https://github.com/OrionMinecraft/Orion) - Mixin loader for minecraft servers running Paper.
+- [PaperLib](https://github.com/PaperMC/PaperLib) - Create faster plugins using Paper's optimisations if they're available, or slower if not on Paper.
 
 
 ##### Considering this is a new list, PRs are always welcome as long as the library is either widely used or professional.
