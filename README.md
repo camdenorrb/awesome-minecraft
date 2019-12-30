@@ -15,6 +15,7 @@ A curated list of awesome Minecraft related libraries for bukkit developer needs
 
 ### UI
 - [ChatMenuAPI](https://github.com/VoxelGamesLib/ChatMenuAPI) - Create interactive menus within minecraft's chat window.
+- [InventoryGUI](https://github.com/Phoenix616/InventoryGui) - Create inventory GUIs with ease.
 
 ### Coroutine
 - [Skedule](https://github.com/okkero/Skedule) - Coroutine library to help kotlin developers get out of callback hell with BukkitRunnables.
