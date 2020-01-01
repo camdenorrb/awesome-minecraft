@@ -31,6 +31,7 @@ A curated list of awesome Minecraft related libraries for bukkit developer needs
 
 ### NBT
 - [NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Itemstacks, Tile Entities and Entities, or modify excisting ones.
+- [Kotlin NBT API](https://gist.github.com/camdenorrb/bec73c5608267f0232bd8f5c42e0784d) - A 200 line NBT library for Kotlin!
 
 ### Packets
 - [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Listen to and handle incoming / outgoing packets.
